@@ -1,0 +1,88 @@
+.bax {
+    text-align: center;
+    color: gray;
+}
+
+.box1 {
+    text-align: center;
+    color: yellow;
+}
+
+.box2 {
+    text-align: center;
+    color: brown;
+}
+
+.b {
+    width: 1400px;
+    display: flex;
+    border-radius: 80px;
+    background-color: aqua;
+    border-color: blue;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 80px;
+}
+
+.n {
+    margin-left: 70px;
+}
+
+.x {
+    margin-left: 70px;
+}
+
+.c {
+    width: 300px;
+}
+
+.d {
+    width: 300px;
+}
+
+.a {
+    width: 300px;
+}
+
+.l {
+    margin-left: 150px;
+}
+
+.e-mail{
+    color: rgb(255, 98, 0);
+}
+.email{
+    color: black;
+}
+
+.s{
+    color: blue;
+}
+
+.q{
+    color: rgb(245, 19, 19);
+}
+
+.v{
+    color: black;
+}
+
+.z{
+    color: black;
+}
+
+.y{
+    color: chocolate;
+}
+
+.q{
+    color: yellow;
+}
+
+.r{
+    color: gray;
+}
+
+.d{
+    color: yellow;
+}
